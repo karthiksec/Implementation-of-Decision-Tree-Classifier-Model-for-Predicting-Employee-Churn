@@ -23,8 +23,8 @@ Import the required libraries.
 ## Program:
 ```
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: HAFEEZUL DEEN S
-RegisterNumber: 212223220028
+Developed by: KARTHIK G
+RegisterNumber: 212223220043
 
 import pandas as pd
 data=pd.read_csv("Employee.csv")
